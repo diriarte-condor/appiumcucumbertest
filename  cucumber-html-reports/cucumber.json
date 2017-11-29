@@ -1,0 +1,31 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Launching wallet app",
+        "description": "",
+        "id": "hello-world.;launching-wallet-app",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "I launch Wallet app.",
+            "match": {},
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "Hello World.",
+    "description": "",
+    "id": "hello-world.",
+    "keyword": "Feature",
+    "uri": "Sample.feature"
+  }
+]
